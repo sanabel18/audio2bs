@@ -1,0 +1,11 @@
+{
+"exportFps": 30.0,
+"audio_root": "/volume/smart-city-nas12/sfm/hsiaohsl/dataset/audio2bs/audio",
+"bs_root": "/volume/smart-city-nas12/sfm/hsiaohsl/dataset/audio2bs/BS46/mfsi_400/mfsi_400",
+"no_eyes": 1,
+"train_frac": 0.96,
+"test_frac": 0.01,
+"valid_frac": 0.03,
+"valid_mean_percent": 90,
+"top_list_percent": 50
+}
